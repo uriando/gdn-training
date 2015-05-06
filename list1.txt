@@ -1,2 +1,6 @@
 Uriando kuro isblack
+<<<<<<< HEAD
 wewewewewe
+=======
+kuroiisisisis
+>>>>>>> 5063322754902a696d7e4bbf4b6263ed051e505b
