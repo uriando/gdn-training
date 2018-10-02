@@ -4,9 +4,9 @@ wewewewewe
 kuroiisisisis
 
 horeee
-<<<<<<< HEAD
+
+kuroige
+shiro is whieer
 shiro is white=
 kuroige
-=======
 shiro is white kurohige
->>>>>>> fdd4fd480378c2c080e9e632c13ace2bbf565954
